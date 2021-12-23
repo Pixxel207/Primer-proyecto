@@ -607,6 +607,13 @@ body{
     font-family: 'Oswald', sans-serif; ;
     background: linear-gradient(#FF7F00,red);
 }
+.sociales i{
+    font-size: 100px;
+}
+.fa-facebook-square{
+    font-size: 100px;
+}
+
 
 .conteiner__footer {
     display:flex;
