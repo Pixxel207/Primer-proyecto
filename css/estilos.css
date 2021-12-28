@@ -695,7 +695,7 @@ body{
 .articulosN{
     display: flex;
     padding:auto;
-    margin: 25px;
+    margin: 24px;
     flex-direction: column;
     width: 500px;
     height:auto;
