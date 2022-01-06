@@ -324,18 +324,38 @@ body{
     justify-content: center;
     align-items: center;
 }
-
-.articuloIsquierdo {
+.articuloIsquierdoN {
     display: flex;
-    width: 80%;
+    width: 100% !important;
     margin: auto;
     align-items: center;
+} 
+.textoN{
+    width: 100%;
+    margin-left: 10px;
 }
 
+
+.articulosN{
+    width: 90% !important;
+}
 .imagen{
     height: 60%;
-    width: 100%;
+    width: 90%;
 }
+.subtitulo{
+    width:100px;
+    font-size: 2em;
+    padding: 10px;
+    margin: 30px 0px;
+}
+
+.articulosN table{
+    width:90%;
+}
+
+
+
 
 .principal__articulo {
     width: 100%;
@@ -360,17 +380,6 @@ body{
 .articulos h2{
     width: 80%;
     background-color: orange;
-}
-
-.subtitulo{
-    width:100px;
-    font-size: 2em;
-    padding: 10px;
-    margin: 30px 0px;
-}
-
-.texto{
-    width: 60%;
 }
 
 .articulos iframe{
